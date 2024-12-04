@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="B0_PvNKsoE6_caueKOmG4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="opensource-demo.orangehrmlive.com/web/index.php/dashboard/index" CVScreenId="0de62a61-46e3-470f-9b06-f64329a86851" CvTextArea="84, 484, 31, 16" CvTextArgument="PIM" CvType="Text" DesignTimeRectangle="9, 470, 308, 47" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='PIM' class='oxd-main-menu-item' tag='A' type='' check:innerText='PIM' /&gt;" Guid="a39c0fb4-3e59-4e15-908c-508159df3917" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0de62a61-46e3-470f-9b06-f64329a86851" CvTextArea="84, 484, 31, 16" CvTextArgument="PIM" CvType="Text" DesignTimeRectangle="67, 482, 48, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='PIM' tag='SPAN' type='' class='oxd-text oxd-text--span oxd-main-menu-item--name' check:innerText='PIM' /&gt;" Guid="1b7d09e2-2de8-4a14-9279-fd4230c86b5f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ecc274ecdb8e795875cb9ba7ef50f5e6.png" xmlns="">0SV-SyqP3aUSFn7rcuqBWIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

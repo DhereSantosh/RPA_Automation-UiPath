@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PIM(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "p_2bruZNaECKXH1gKuvS4g",
+  "Reference": "VfYReMRbJUa7lc3ZqodsnA/p_2bruZNaECKXH1gKuvS4g",
+  "ParentRef": "VfYReMRbJUa7lc3ZqodsnA/iti-8GcKp0O3RaMb3Vv_gA",
+  "Created": "2024-12-03T06:05:51.4661338Z",
+  "Updated": "2024-12-03T06:05:51.4661338Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

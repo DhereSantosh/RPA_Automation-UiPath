@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HXp4j9CRHUKL8bZR1rKiZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/290" DesignTimeRectangle="1813, 190, 23, 20" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl type='' tag='I' class='oxd-icon bi-caret-down-fill oxd-userdropdown-icon' aaname='' /&gt;" Guid="02e10030-f442-4744-9adf-28fb1f9eda71" ScopeSelectorArgument="&lt;html app='msedge.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="575b528e-407f-4ce9-a35f-082be5110025" CvElementArea="1812, 186, 25, 24" CvType="ArrowButton" DesignTimeRectangle="1811, 186, 25, 24" ElementType="ArrowButton" Guid="1f326869-e2ae-4a93-acd2-443f908a71d7" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b5f9a6239d6ab8bc273a203f8e40d904.png" xmlns="">0nOcA2ONkaUeZanAkjYOiEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

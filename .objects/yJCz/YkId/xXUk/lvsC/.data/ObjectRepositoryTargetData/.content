@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I5rv50qDRECaya09eeI7pw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee" CVScreenId="98c63b92-c418-4da1-abc1-91cc5ba1a776" CvElementArea="1692, 751, 129, 43" CvTextArea="1736, 762, 41, 16" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="1695, 752, 125, 39" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space' aaname=' Save ' check:innerText='Save' /&gt;" Guid="6a429434-ffbf-456a-96dc-21dd0a51b99e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="98c63b92-c418-4da1-abc1-91cc5ba1a776" CvTextArea="805, 434, 145, 17" CvTextArgument="Employee Full Name*" CvType="Text" DesignTimeRectangle="806, 431, 145, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='oxd-label oxd-input-field-required' aaname='Employee Full Name' check:innerText='Employee Full Name' /&gt;" Guid="b30b8fc3-f943-4f54-bb13-86384356eee9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="02eebab766183b383336e049dcffe048.png" xmlns="">0pSUYOeV-sECrl8AVYafXzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

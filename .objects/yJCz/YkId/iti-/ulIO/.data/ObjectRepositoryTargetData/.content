@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bpJaOaa-IkuZmAB17_NBNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="opensource-demo.orangehrmlive.com/web/index.php/auth/login" CVScreenId="36332b46-45bb-459b-90a7-ca83509aa19e" CvElementArea="473, 812, 608, 63" CvTextArea="754, 835, 46, 20" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="475, 816, 606, 58" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='oxd-button oxd-button--medium oxd-button--main orangehrm-login-button' aaname=' Login ' check:innerText='Login' /&gt;" Guid="0f37b022-ef11-40c7-8b85-13fcda6e8b38" ScopeSelectorArgument="&lt;html app='msedge.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="36332b46-45bb-459b-90a7-ca83509aa19e" CvElementArea="473, 812, 608, 63" CvTextArea="754, 835, 46, 20" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="474, 812, 607, 63" ElementType="Button" Guid="b0efc244-b34d-4333-b157-bd7d4f16c2e1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3d2e3188bd0efde878c0cdaaf19585b4.png" xmlns="">0daFz7-iwi0mfyEYfAf4tKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

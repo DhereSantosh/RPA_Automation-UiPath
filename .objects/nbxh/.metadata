@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge OrangeHRM - [InPrivate] - Microsoft​ Edge",
+  "Type": "App",
+  "Id": "nbxhYqWk1kOzS51YMQYFMA",
+  "Reference": "VfYReMRbJUa7lc3ZqodsnA/nbxhYqWk1kOzS51YMQYFMA",
+  "Created": "2024-12-03T05:59:25.1213801Z",
+  "Updated": "2024-12-03T05:59:25.1213801Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

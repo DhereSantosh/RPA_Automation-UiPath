@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KtEwLd70XUuaObkP-TtzvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/286" CVScreenId="374425c4-0fff-469a-8728-65b8b29fcd40" CvTextArea="1669, 364, 47, 17" CvTextArgument="Logout" CvType="Text" DesignTimeRectangle="1650, 355, 200, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Logout' aria-role='menuitem' tag='A' type='' class='oxd-userdropdown-link' check:innerText='Logout' /&gt;" Guid="a4f2fe2a-82be-4519-b569-d4528e992fe6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="374425c4-0fff-469a-8728-65b8b29fcd40" CvTextArea="1669, 364, 47, 17" CvTextArgument="Logout" CvType="Text" DesignTimeRectangle="1669, 364, 47, 17" ElementType="Text" Guid="ded95925-b236-4a28-b36f-11934884719e" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b8fa620680534998925f3b3f09526148.png" xmlns="">0OZFD_UIL1UOm4UUOn7FHng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

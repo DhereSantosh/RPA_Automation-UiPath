@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge OrangeHRM - [InPrivate] - Microsoft​ Edg",
+  "Type": "Screen",
+  "Id": "PEP0dFQyTkGCafDHO5ZoDw",
+  "Reference": "VfYReMRbJUa7lc3ZqodsnA/PEP0dFQyTkGCafDHO5ZoDw",
+  "ParentRef": "VfYReMRbJUa7lc3ZqodsnA/zTTQDesPgEuT0ec0vL8Bow",
+  "Created": "2024-12-03T05:59:25.1746021Z",
+  "Updated": "2024-12-03T05:59:25.1746021Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome OrangeHRM",
+  "Type": "Screen",
+  "Id": "FkVk95zxI0iJXV0CCB0P6w",
+  "Reference": "VfYReMRbJUa7lc3ZqodsnA/FkVk95zxI0iJXV0CCB0P6w",
+  "ParentRef": "VfYReMRbJUa7lc3ZqodsnA/YkIdT7dQ30CJMkS8RnFKRg",
+  "Created": "2024-12-03T05:41:43.4230925Z",
+  "Updated": "2024-12-03T05:41:43.4230925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
